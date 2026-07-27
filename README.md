@@ -1,5 +1,8 @@
 # Martín Slavsky
 ### Desarrollador Frontend & Administrativo Analítico
+[📥 Descargar CV en formato PDF] https://github.com/40martin/cv-martin-slavsky
+
+
 
 ¡Hola! Bienvenido a mi perfil. Soy un profesional con una trayectoria sólida en gestión administrativa y un perfil técnico enfocado en el Desarrollo Frontend y el análisis de datos. Combino la rigurosidad operativa con la programación para crear soluciones web eficientes, dinámicas y orientadas a la mejora de procesos.
 
