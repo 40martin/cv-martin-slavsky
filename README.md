@@ -52,6 +52,6 @@
 ### 📬 Contacto
 
 *   **LinkedIn:** www.linkedin.com/in/martín-slavsky-7933a424b
-*   **Email:** martinboca22@gmail.com / martinboca22@yahoo.com.ar
+*   **Email:** martinboca22@gmail.com
 *   **Ubicación:** Ituzaingó, Buenos Aires, Argentina
 
