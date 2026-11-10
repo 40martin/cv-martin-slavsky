@@ -11,8 +11,6 @@
 * **Carrera de Desarrollo Frontend React** | Coderhouse (Feb 2026 – Sep 2026) 🚀
   * *Estado: Graduado - Certificación Completa Obtenida*
   * *Módulos:* React JS, JavaScript (Flex) y Desarrollo Web (Flex).
-* **Especialización en Ciberseguridad** | Coderhouse (Inicia: 23 de Septiembre 2026) 🛡️
-  * *Estado: Cursando actualmente*
 * **Curso de Inteligencia Artificial Generativa** | Coderhouse (2025)
 * **Curso de Tableau (Análisis de Datos) & WordPress** | Coderhouse (2024)
 
